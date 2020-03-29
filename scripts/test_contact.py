@@ -9,7 +9,7 @@ class TestContact:
         assert 0
 
     def test_contact3(self):
-        assert 1
+        assert 0
 
     def test_contact4(self):
         assert 1
